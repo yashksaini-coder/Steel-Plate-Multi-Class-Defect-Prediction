@@ -46,7 +46,7 @@ To install and use this repository, follow these steps:-
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yashksaini-coder/steel-plate-defect-prediction.git
+    git clone https://github.com/yashksaini-coder/Steel-Plate-Multi-Class-Defect-Prediction
     ```
 
 2. Navigate to the repository directory:
